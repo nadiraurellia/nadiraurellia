@@ -1,11 +1,7 @@
 AURELLIA NADIRA PUTRI
 Hi everyone! I'm a curious beginner programmer whom excited to explore more about coding and data analytics.
-I'm curenntly learning Python and still digging more about python and other programming language.
+I'm currently learning Python and still digging deeper into Python and other programming languages.
 
-Skills:
-Learning: 1. Python
-          2. MySQL
-          3. R studio
 
 You can connect with me on my social media!
 *Instagram*: @nadiraurellia
