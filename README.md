@@ -1,11 +1,11 @@
-AURELLIA NADIRA PUTRI
-Hi everyone! I'm a curious beginner programmer whom excited to explore more about coding and data analytics.
-I'm currently learning Python and still digging deeper into Python and other programming languages.
+## Hello!
 
+My name is Nadira, third-year Information Systems student at Telkom University Jakarta interested in Data Analytics & Data Science!
 
 You can connect with me on my social media!
-*Instagram*: @nadiraurellia
-*LinkIDN*: https://www.linkedin.com/in/aurellia-nadira-putri-b200aa255/
+  - *Instagram*: [@nadiraurellia](https://www.instagram.com/nadiraurellia/)
+  - *LinkIDN*: [Aurellia Nadira Putri](https://www.linkedin.com/in/aurellia-nadira-putri-b200aa255/)
+  - *Email*: Nadiraputri311@gmail.com
 
 
 
